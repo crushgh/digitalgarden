@@ -1,11 +1,7 @@
-
-
 ---
-Priority: 3
-Added: 
-Status: Complete
-dg-publish: true
+{"dg-publish":true,"permalink":"/hobbies/tech/projects/diary-streak/"}
 ---
+
 
 # Diary Streak
 
