@@ -8,7 +8,7 @@ For inclusion on [[Hobbies/Tech/Projects/Website]]
 
 ## Browser
 
-For your PC or Mac, use **Firefox** as your browser. Chrome is created by Google, and collects a large amount of data on you: see [X]. By contrast, Firefox has advanced privacy tools built-in, such as Enhanced Tracking Protection (ETP), and is run by a non-profit, Mozilla. On Mac, Firefox is a lot faster and has better extensions than Safari. 
+For your PC or Mac, use **Firefox** as your browser. Chrome is created by Google, and collects a large amount of data on you: see [X]. By contrast, Firefox has adv**anced privacy tools built-in, such as Enhanced Tracking Protection (ETP), and is run by a non-profit, Mozilla. On Mac, Firefox is a lot faster and has better extensions than Safari. 
 
 On your iPhone, Safari is fine (and you can use Privacy Relay if you don't have a VPN) but Firefox and DuckDuckGo also offer their own browsers. 
 
